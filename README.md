@@ -1,6 +1,6 @@
 # OS Resource Studio
 
-**Author:** Divesh Kinha · **Roll No:** 2401010077 · **Program:** B.Tech CSE Core
+**Name:** Divesh Kinha · **Roll No:** 2401010077 · **Program:** B.Tech CSE Core
 
 An interactive, academic-styled Operating Systems Resource Management Studio built with **Python**, **Streamlit**, and **Plotly**. It unifies four core OS subsystems—**CPU Scheduling**, **Contiguous Memory Allocation**, **Deadlock Avoidance (Banker's Algorithm)**, and **Disk Head Scheduling**—into a single, reproducible workbench driven by a shared JSON workload contract.
 
